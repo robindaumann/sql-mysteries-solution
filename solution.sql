@@ -11,7 +11,7 @@ and type = 'murder';
 select transcript
 from person as p
 join interview as i on i.person_id = p.id
-where address_street_name like 'Northwestern Dr%'
+where address_street_name = 'Northwestern Dr'
 order by address_number desc
 limit 1;
 
