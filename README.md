@@ -1,6 +1,6 @@
 # sql-mysteries-solution
 
-Solution for The SQL Murder Mystery
+Solution for [The SQL Murder Mystery](https://mystery.knightlab.com/)
 
 ## Structure
 
